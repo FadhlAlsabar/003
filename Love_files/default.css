@@ -29,7 +29,7 @@ a {
 
 #text {
 	width: 400px;
-	height: 425px;
+	height: 500px;
 	left: 60px;
 	top: 80px;
 	position: absolute;
@@ -84,7 +84,7 @@ a {
 .say {
 	margin-left: 5px;
 	 display: block;
-    line-height: 0.2;
+    line-height: 0.1;
 }
 
 .space {
